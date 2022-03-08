@@ -1,4 +1,4 @@
-<p align="center">Olá! Sou o Leonardo, programador júnior full-stack!</p>
+<p align="center">Olá! Sou o Leonardo, programador júnior back-end!</p>
 
 ##
 
