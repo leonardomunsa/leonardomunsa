@@ -22,6 +22,7 @@
     <img align="center" alt="Leo-Docker" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
     <img align="center" alt="Leo-Python" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Leo-Django" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
+    <img align="center" alt="Leo-Rust" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
   </div>
 </div>
   
