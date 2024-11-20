@@ -12,6 +12,7 @@
 <div align="center">
   <div style="display: inline_block">
     <img align="center" alt="PostgresSQL" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="PostgresSQL" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="Docker" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
     <img align="center" alt="PHP" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   </div>
