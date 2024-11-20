@@ -1,4 +1,4 @@
-<p align="center">Olá! Sou o Leonardo, programador back-end!</p>
+<p align="center">Olá! Sou o Leonardo, programador back-end PHP</p>
 
 ##
 
@@ -10,15 +10,10 @@
 ##
  
 <div align="center">
-  <p>Utilizando/estudando as stacks:</p>
   <div style="display: inline_block">
-    <img align="center" alt="React" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="PostgresSQL" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="Docker" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-    <img align="center" alt="Laravel" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
     <img align="center" alt="PHP" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="center" alt="JAVA" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="GO" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   </div>
 </div>
   
